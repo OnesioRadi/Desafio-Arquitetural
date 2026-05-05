@@ -5,6 +5,9 @@ Solução escalável e resiliente para controle de lançamentos financeiros e co
 
 ## 🏗️ Arquitetura Proposta (C4 Model)
 ![Diagrama de Containers](./diagrams/Diagrama Container.png)
+![Diagrama de Containers](./diagrams/Diagrama Sequencia1.png)
+![Diagrama de Containers](./diagrams/Diagrama Container2.png)
+
 > *Nota: A arquitetura utiliza o padrão CQRS e Mensageria (RabbitMQ) para garantir que o serviço de lançamentos não pare caso o consolidado esteja offline.*
 
 ## 🛠️ Stack Tecnológica
