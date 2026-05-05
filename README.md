@@ -26,5 +26,5 @@ Solução escalável e resiliente para controle de lançamentos financeiros e co
 | **Total Estimado** | | **US$ 320,00** |
 
 ## 📂 Documentação Complementar
-- [Clique aqui para baixar o PDF com a proposta completa](./docs/desafio_arquitetura.pdf)
+- [Clique aqui para baixar o PDF com a proposta completa](./Docs/Desafio_arquitetura.pdf)
 - [Apresentação em PowerPoint (PPTX)](./Desafio_arquitetura.pptx)
