@@ -4,7 +4,7 @@
 Solução escalável e resiliente para controle de lançamentos financeiros e consolidação de saldo diário.
 
 ## 🏗️ Arquitetura Proposta (C4 Model)
-![Diagrama de Containers](./docs/diagrama-container.png)
+![Diagrama de Containers](./docs/Diagrama Container.png)
 > *Nota: A arquitetura utiliza o padrão CQRS e Mensageria (RabbitMQ) para garantir que o serviço de lançamentos não pare caso o consolidado esteja offline.*
 
 ## 🛠️ Stack Tecnológica
@@ -23,5 +23,5 @@ Solução escalável e resiliente para controle de lançamentos financeiros e co
 | **Total Estimado** | | **US$ 320,00** |
 
 ## 📂 Documentação Complementar
-- [Clique aqui para baixar o PDF com a proposta completa](./docs/desafio-arquitetura.pdf)
-- [Apresentação em PowerPoint (PPTX)](./docs/apresentacao-executiva.pptx)
+- [Clique aqui para baixar o PDF com a proposta completa](./docs/desafio_arquitetura.pdf)
+- [Apresentação em PowerPoint (PPTX)](./Desafio_arquitetura.pptx)
